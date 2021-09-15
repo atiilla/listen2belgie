@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/listen2belgie/static/css/main.31f7fe6e.chunk.css",
+    "main.css": "/listen2belgie/static/css/main.d00c1527.chunk.css",
     "main.js": "/listen2belgie/static/js/main.ef61a336.chunk.js",
     "main.js.map": "/listen2belgie/static/js/main.ef61a336.chunk.js.map",
     "runtime-main.js": "/listen2belgie/static/js/runtime-main.d9de36cb.js",
@@ -10,14 +10,14 @@
     "static/js/2.ba462946.chunk.js.map": "/listen2belgie/static/js/2.ba462946.chunk.js.map",
     "index.html": "/listen2belgie/index.html",
     "static/css/2.de53cab3.chunk.css.map": "/listen2belgie/static/css/2.de53cab3.chunk.css.map",
-    "static/css/main.31f7fe6e.chunk.css.map": "/listen2belgie/static/css/main.31f7fe6e.chunk.css.map",
+    "static/css/main.d00c1527.chunk.css.map": "/listen2belgie/static/css/main.d00c1527.chunk.css.map",
     "static/js/2.ba462946.chunk.js.LICENSE.txt": "/listen2belgie/static/js/2.ba462946.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d9de36cb.js",
     "static/css/2.de53cab3.chunk.css",
     "static/js/2.ba462946.chunk.js",
-    "static/css/main.31f7fe6e.chunk.css",
+    "static/css/main.d00c1527.chunk.css",
     "static/js/main.ef61a336.chunk.js"
   ]
 }
